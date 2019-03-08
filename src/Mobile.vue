@@ -25,8 +25,8 @@
           `/*
 * Inspired by http://strml.net/
 * 源码地址 https://github.com/sitexa/anires
-* 大家好，我是南方。
-* 我来写一份简历！
+* 你好，我是崔有朋，我来自青岛农业大学理学与信息科学学院，信息与计算科学1701班。
+* 我来写一份简单的自我介绍，希望贵校同意我的申请！
 */
 
 /* 给所有元素加上过渡效果 */
@@ -84,7 +84,7 @@ html{
   background: white; color: #222;
   overflow: auto;
 }
-/* 开始写简历 */
+/* 开始写我的简单自我介绍 */
 
 
 `,
@@ -123,9 +123,9 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `南方
+        fullMarkdown: `崔有朋
 ====
-坐标：湖南长沙。
+坐标：青岛农业大学理学与信息科学学院。
 
 资深软件工程师，资深产品经理，高级项目经理。现为自由职业。
 
