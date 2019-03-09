@@ -195,6 +195,7 @@ html{
   - Python: pandas, numpy, matplotlib
   - OS: Ubuntu, Windows
   - Others: git, Xmind, ACM竞赛算法
+
 兴趣爱好
 ----
   - 打篮球, 摄影, 听音乐
