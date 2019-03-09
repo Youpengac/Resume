@@ -146,10 +146,10 @@ html{
 ----
 
 * [GitHub](https://github.com/youpengac)
-* [技术博客](http://youpengac.github.io(目前还在搭建)
+* [技术博客](http://youpengac.github.io)(目前还在搭建)
 * [博客园](http://www.cnblogs.com/youpeng)
-* [CSDN](https://blog.csdn.net/qq_40829288（停用但仍可访问)
-* [博客园](http://www.cnblogs.com/cypblogs(停用但仍可访问)
+* [CSDN](https://blog.csdn.net/qq_40829288)(停用但仍可访问)
+* [博客园](http://www.cnblogs.com/cypblogs)(停用但仍可访问)
 
 联系方式
 ----
