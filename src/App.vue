@@ -195,6 +195,7 @@ html{
   - Python: pandas, numpy, matplotlib
   - OS: Ubuntu, Windows
   - Others: git, Xmind, ACM竞赛算法
+  - Certificate：计算机二级C语言, 计算机三级信息安全技术
 
 兴趣爱好
 ----
